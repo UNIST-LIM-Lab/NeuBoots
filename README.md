@@ -1,6 +1,6 @@
 # NeuBoots
 
-This repository contains an official implementation of the [Neural Bootstrapper](https://arxiv.org/abs/2010.01051).
+This repository contains an official implementation of the Neural Bootstrapper.
 
 ## Prerequsites
 
